@@ -2,7 +2,7 @@
 
 ### Git:
 
-O Git é um sistema de controle de versões distribuído.
+>O Git é um sistema de controle de versões distribuído.
 
 Durante o curso, a ferramenta utilizada para controle de versões é o console Git Bash.
 
@@ -28,6 +28,6 @@ Facilita utilizar o Git Bash clicando com o botão direito do mouse, no local do
 
 ### GitHub:
 
-O GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração, como uma rede social.
+>O GitHub é uma plataforma de hospedagem de código para controle de versão e colaboração, como uma rede social.
 
 Há possibilidade de conflitos de versões atualizando de maneiras diferentes o repositório online (GitHub) e o da máquina. Porém o Git aponta as divergências, e pode manualmente acertar os conflitos.
